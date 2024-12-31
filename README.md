@@ -3,7 +3,7 @@
 Dieses Projekt ist ein einfacher Einstieg in die Programmierung mit **HTML**, **CSS** und **JavaScript**. Es zeigt, wie man eine interaktive Webseite erstellt, bei der ein Button Klicks zählt.
 
 ## Vorschau
-![Screenshot des Klick-Buttons]([https://via.placeholder.com/800x400.png?text=Projekt-Screenshot](https://github.com/FoehrsWorks/Klick-Button/blob/main/Screenshot%202024-12-31%20111254.png))
+![Screenshot des Klick-Buttons](https://github.com/FoehrsWorks/Klick-Button/blob/main/Screenshot.png?raw=true)
 
 ## Inhalte
 - **HTML:** Struktur der Webseite.
