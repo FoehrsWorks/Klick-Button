@@ -14,3 +14,4 @@ Dieses Projekt ist ein einfacher Einstieg in die Programmierung mit **HTML**, **
 1. **Dateien herunterladen:** Lade das Projekt als ZIP-Datei herunter oder klone es mit Git:
    ```bash
    git clone https://github.com/FoehrsWorks/Klick-Button.git
+2. **Öffnen:** Öffne die Index.js in einem beliebigen Browser
