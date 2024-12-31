@@ -13,4 +13,4 @@ Dieses Projekt ist ein einfacher Einstieg in die Programmierung mit **HTML**, **
 ## Nutzung
 1. **Dateien herunterladen:** Lade das Projekt als ZIP-Datei herunter oder klone es mit Git:
    ```bash
-   git clone https://github.com/DeinGitHub/Klick-Button-Projekt.git
+   git clone https://github.com/FoehrsWorks/Klick-Button.git
